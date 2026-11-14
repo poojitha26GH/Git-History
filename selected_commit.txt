@@ -1,0 +1,19 @@
+commit 1691c97d6224d1e7af38a046dcac1bee871a00a5
+Author: Poojitha M <poojithami25@gmail.com>
+Date:   Sat Nov 14 13:51:13 2026 +0530
+
+    Add repository audit status and file verification
+
+diff --git a/student.txt b/student.txt
+index 8efa9f6..c58e12e 100644
+--- a/student.txt
++++ b/student.txt
+@@ -5,4 +5,5 @@ subject git
+ experiment repository
+ track and audit
+ add lab status
+-history audit verification
+\ No newline at end of file
++history audit verification
++purpose: track and audit repository 
+\ No newline at end of file
